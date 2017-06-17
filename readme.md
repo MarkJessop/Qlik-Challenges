@@ -16,4 +16,13 @@ on how we can run your code.  This can either be an executable, docker image, a 
 3. 3rd-party vendor libaries can be used if needed
 
 
-## Good luck!
+
+## Instructions of use
+
+Challenge 1 - Sorting
+
+
+Challenge 2 - Palindrome
+
+
+Challenge 3 - Anagram
