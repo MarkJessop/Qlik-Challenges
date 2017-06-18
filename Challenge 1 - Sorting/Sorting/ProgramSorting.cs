@@ -7,9 +7,9 @@ namespace Sorting
     {
         static void Main(string[] args)
         {
-            int upperBound = 100;
-            int lowerBound = 1;
-            int total = 100;
+            const int upperBound = 100;
+            const int lowerBound = 1;
+            const int total = 100;
             int[] array = new int [total];
 
             Random random = new Random();
