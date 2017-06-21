@@ -12,4 +12,4 @@ returns true `
 returns true`
 
 `ex 4. isAnagram(Dormitory, Dirty rooms)
-returns false
+returns false`
