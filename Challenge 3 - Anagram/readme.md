@@ -5,7 +5,7 @@ Devise an algorithm to determine if two strings of letters are [anagrams](https:
 `ex. isAnagram(Debit Card, Bad Credit) 
 returns true `
 
-`ex 2. isAnagram(Astronomer, Moon stare) 
+`ex 2. isAnagram(Astronomer, Moon starer) 
 returns true `
 
 `ex 3. isAnagram(These churn air, The Hurricanes) 
