@@ -11,9 +11,13 @@ Fork this repository and read the instruction text files in each challenge folde
 ## Rules
 
 1. Submissions can be submitted in any language
-2. Modify this readme to include a section 
+2. Modify this readme to include a section
 on how we can run your code.  This can either be an executable, docker image, a list of instructions, etc... We just need a way to be able to run your code on our computers!
 3. 3rd-party vendor libaries can be used if needed
 
 
 ## Good luck!
+
+## How to run
+
+To run the programs simply install python3 and it can be run from the command line in the format “python3 challenge#.py” where # is the challenge number.
